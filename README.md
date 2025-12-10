@@ -35,7 +35,7 @@ Features
 Project Structure
 ------------------------------------------------------------
 
-.
+
 ├── include/
 │   ├── blackScholes.h
 │   └── stats.h
