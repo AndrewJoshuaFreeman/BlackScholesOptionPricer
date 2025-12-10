@@ -35,7 +35,7 @@ Features
 Project Structure
 ------------------------------------------------------------
 
-
+```
 ├── include/
 │   ├── blackScholes.h
 │   └── stats.h
@@ -45,7 +45,7 @@ Project Structure
 │   └── stats.cpp
 ├── Makefile
 └── README.txt
-
+```
 stats.* contains the normal PDF/CDF utilities.
 blackScholes.* contains the Black–Scholes model and Greeks.
 main.cpp runs a test suite and prints results.
